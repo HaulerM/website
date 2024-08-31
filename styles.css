@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+
+h2{
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
